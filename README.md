@@ -4,5 +4,5 @@ The survey form is one of the most straightforward HTML projects you can start. 
 
 You will learn about basic input tags, form creation, radio buttons, checkboxes, etc.
 
-Here is the source code for the project with the necessary explanations of the tags. You can add elements one by one to see how they work. 
+Here is the source code for the project with the necessary explanations of the tags. You can add elements one by one to see how they Work. 
 
